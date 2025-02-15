@@ -1,10 +1,10 @@
 # File: config.py
 
 # File Paths
-WORDS_XLSX_PATH = r"C:\Users\saahi\Downloads\Personal Projects\Machine Learning\Hangman Learning\assets\words.xlsx"
-BACKGROUND_MUSIC_PATH = r"C:\Users\saahi\Downloads\Personal Projects\Machine Learning\Hangman Learning\assets\background_music.wav"
-CORRECT_SOUND_PATH = r'C:\Users\saahi\Downloads\Personal Projects\Machine Learning\Hangman Learning\assets\correct_guess.wav'
-INCORRECT_SOUND_PATH = r"C:\Users\saahi\Downloads\Personal Projects\Machine Learning\Hangman Learning\assets\incorrect_guess.wav"
+WORDS_XLSX_PATH = "assets/words.xlsx"
+BACKGROUND_MUSIC_PATH = "background_music.wav"
+CORRECT_SOUND_PATH = 'assets/correct_guess.wav'
+INCORRECT_SOUND_PATH = "assets/incorrect_guess.wav"
 
 # Game Settings
 EASY_MODE_LIVES = 7
